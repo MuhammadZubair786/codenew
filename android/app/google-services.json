@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "741175723531",
+    "project_id": "infixlms-83998",
+    "storage_bucket": "infixlms-83998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741175723531:android:d1bfab2053f2a0a1f5290e",
+        "android_client_info": {
+          "package_name": "com.commodore.academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741175723531-d6etkrbostgl1dfmo8vkeq4q9uksljrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55tzoermi8V3CbEkw1vWhhrmwawUkKxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741175723531-d6etkrbostgl1dfmo8vkeq4q9uksljrr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741175723531-j3ab14n1pgagngcbg2kghj5636nmvnm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infix.lms"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741175723531:android:6ac386b361526dd9f5290e",
+        "android_client_info": {
+          "package_name": "com.infix.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741175723531-4ub24u96s5qfh9d83fs9gfjlp2alakuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infix.lms",
+            "certificate_hash": "eb300a7c988ed95bc4a74f393c9a8fdfcb5f5822"
+          }
+        },
+        {
+          "client_id": "741175723531-d6etkrbostgl1dfmo8vkeq4q9uksljrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55tzoermi8V3CbEkw1vWhhrmwawUkKxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741175723531-d6etkrbostgl1dfmo8vkeq4q9uksljrr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741175723531-j3ab14n1pgagngcbg2kghj5636nmvnm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infix.lms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
